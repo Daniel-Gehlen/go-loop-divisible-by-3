@@ -17,10 +17,10 @@ func main() {
 
 ## Explanation:
 
--Importing fmt package: The line import "fmt" imports the fmt package, which provides functions for text formatting and printing.
+- Importing fmt package: The line import "fmt" imports the fmt package, which provides functions for text formatting and printing.
 
--For loop: The for loop iterates from 1 to 100, assigning each value to the variable i.
+- For loop: The for loop iterates from 1 to 100, assigning each value to the variable i.
 
--Divisibility check: The condition i%3 == 0 checks if the current value of i is divisible by 3 using the modulo operator %.
+- Divisibility check: The condition i%3 == 0 checks if the current value of i is divisible by 3 using the modulo operator %.
 
--Printing: If the condition is true, the value of i (a number divisible by 3) is printed to the console using the fmt.Println function.
+- Printing: If the condition is true, the value of i (a number divisible by 3) is printed to the console using the fmt.Println function.
